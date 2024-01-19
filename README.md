@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Python, NodeJS, Java
 - 💞️ I’m looking to collaborate on networking, fin-tech, system related projects
-- 📫 How to reach me > son1@ntu.edu.sg
+- 📫 How to reach me > Email: son1@ntu.edu.sg
 
 <!---
 s0nagent006/s0nagent006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
